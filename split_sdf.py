@@ -1,5 +1,5 @@
 f= "filename"
-split_number = 50000 #(number of molecules in each file--delete this line in bracket)
+split_number = 50000 #(number of molecules in each file)
 number_of_sdfs = split_number
 i=0
 j=0
